@@ -9,7 +9,4 @@ print(f'A medida de {medida}m corresponde a {milimetros}mm')
 
 
 
-#print('O valor em centimetros é = {}'.format(centimetros))
-#print('O valor em milimetros é = {}'.format(milimetros))
-
 
