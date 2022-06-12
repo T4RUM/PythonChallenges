@@ -12,5 +12,5 @@ print('O aluno sorteado para apagar a lousa foi: {}'. format(sorteio))
 
 
 # OUTRO MODO DE SE FAZER ISSO POREM DE MANEIRA QUE FICA FIXO OS NOMES
-'''const = ['Wesley','Elias', 'Alessandra', 'Rosimeire']'''
+'''const = ['Wesley','Marcos', 'Ricardo', 'João']'''
 '''sorteio = random.choice(const)'''
